@@ -57,6 +57,6 @@ Second language
 
 ## Infotechnology engineer
 
-*2017 (unfinished due to Relocation)*
+*2017*
 
 Jose Cecilio del Valle University - Tegucigalpa, Honduras.
