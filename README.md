@@ -17,13 +17,13 @@
 
 ## Front-End developer
 
-*Sp Fair Value*, Addison, TX – (2020)*
+Sp Fair Value, *Addison, TX– (2020)*
 
 Front-end and PHP developer 
 
 ## Lead Front-End developer
 
-*Beanario Software*, Tegucigalpa, Honduras– (2018 - 2020)*
+Beanario Software, *Tegucigalpa, Honduras– (2018-2020)*
 
 Front-end and Native Android  developer 
 
