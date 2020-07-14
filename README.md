@@ -27,7 +27,7 @@ Front-end and Native Android  developer
 
 ---
 
-# 🛠 <img src="images/icons/skill.png" width="36" height="36" /> Skills
+# <img src="images/icons/skill.png" width="30" /> Skills
 
 ## 💻 Technology
 
