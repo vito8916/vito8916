@@ -1,4 +1,4 @@
-![A test image](images/vicBanner.png)
+![A test image](https://github.com/vito8916/vito8916/blob/master/images/vicBanner.png)
 
 # ☎️ Contact information
 
@@ -27,7 +27,7 @@ Front-end and Native Android  developer
 
 ---
 
-# <img src="images/icons/skill.png" width="30" /> Skills
+# <img src="https://github.com/vito8916/vito8916/blob/master/images/icons/skill.png" width="30" /> Skills
 
 ## 💻 Technology
 
