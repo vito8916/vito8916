@@ -1,8 +1,4 @@
-[Email address](https://victoralvarado.vicxbox.com/#)
-# Hello!
-My name is Víctor Alvarado.
-
-> I'm a software engineer based in Honduras with 5 years of experience in the software industry, front-end and Android development apps.
+![A test image](images/vicBanner.png)
 
 # ☎️ Contact information
 
@@ -31,7 +27,7 @@ Front-end and Native Android  developer
 
 ---
 
-# 🛠 Skills
+# 🛠 <img src="images/icons/skill.png" width="36" height="36" /> Skills
 
 ## 💻 Technology
 
