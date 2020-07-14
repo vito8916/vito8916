@@ -33,9 +33,13 @@ Front-end and Native Android  developer
 
 ## 💻 Technology
 
+### Android ⭐️⭐️⭐️⭐️⭐️
+
+I've worked with it for over 5 years on Java programming language. I've used it in the personal apps like Simpypaper - Wallpaper or Startups like Ocho App.
+
 ### Javascript ⭐️⭐️⭐️⭐️
 
-My "native" programming language, I've worked with it for over 1 year. I've used it in the front-end with React, in the back-end for APIs with Node, Express.
+My "native" programming language for the web, I've worked with it for over 1 year. I've used it in the front-end with React, in the back-end for APIs with Node, Express.
 
 ---
 
