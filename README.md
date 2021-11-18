@@ -4,7 +4,7 @@
 
 [📎 Twitter](https://twitter.com/VicxBox_)
 
-[🌐 Online Resume](https://victoralvarado.vicxbox.com/)
+[🌐 Online Resume](https://vicbox.tech/)
 
 ⌨️ [Workana](https://www.workana.com/freelancer/bdb3859d99e6f46b8cd6833c9b36bc3c?)
 
