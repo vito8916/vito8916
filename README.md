@@ -1,3 +1,7 @@
+## Hello, I’m Victor Alvarado - a software engineer from Honduras
+I’ve been deeply invested in computers and technology since I was in high school. What used to be just a hobby turned into my field of study, then into my career.
+
+At present, I work as a **Full-Stack** engineer and try to build easy-to-use and visually simple but attractive interfaces for the web. My tools of the trade include **modern JavaScript, CSS, and semantic HTML** as posible for the **Front-End**. **PHP** and **Node.JS** for the **Back-End**. I like to actively participate in the full product lifecycle—from early concept, through technical design, to delivering and maintaining the finished product.
 
 # ☎️ Contact information
 
@@ -33,7 +37,7 @@ My "native" programming language for the web, I've worked with it for over 1 yea
 
 ## Front-End developer
 
-Sp Fair Value, *Addison, TX– (2020)*
+Sp Fair Value, *Addison, TX– (2020 - present)*
 
 Front-end and PHP developer 
 
@@ -41,7 +45,7 @@ Front-end and PHP developer
 
 Beanario Software, *Tegucigalpa, Honduras– (2018-2020)*
 
-Front-end and Native Android  developer 
+Front-end and Native Android developer 
 
 ---
 
