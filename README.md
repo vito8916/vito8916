@@ -1,10 +1,9 @@
-![A test image](https://github.com/vito8916/vito8916/blob/master/images/vicBanner.png)
 
 # ☎️ Contact information
 
 [📎 Twitter](https://twitter.com/VicxBox_)
 
-[🌐 Online Resume](https://vicbox.tech/)
+[🌐 Blog](https://vicbox.tech/)
 
 ⌨️ [Workana](https://www.workana.com/freelancer/bdb3859d99e6f46b8cd6833c9b36bc3c?)
 
