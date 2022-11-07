@@ -19,6 +19,7 @@
 ### Android ⭐️⭐️⭐️⭐️⭐️
 
 I've worked with it for over 5 years on Java programming language. I've used it in the personal apps like Simpypaper - Wallpaper or Startups like Ocho App.
+
 [SimplyPaper - Wallpaper](https://play.google.com/store/apps/details?id=com.dev.victor.spaper)
 
 [Ocho SideKick](https://play.google.com/store/apps/details?id=io.beanario.ocho_sidekick&hl=es&gl=US)
