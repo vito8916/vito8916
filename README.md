@@ -1,7 +1,7 @@
-## Hello, I’m Victor Alvarado - a software engineer from Honduras
+## Hello, I’m Victor Alvarado - a software engineer from Honduras (10+ years of experience)
 I’ve been deeply invested in computers and technology since I was in high school. What used to be just a hobby turned into my field of study, then into my career.
 
-At present, I work as a **Full-Stack** engineer and try to build easy-to-use and visually simple but attractive interfaces for the web. My tools of the trade include **modern JavaScript, CSS, and semantic HTML** as posible for the **Front-End**. **PHP** and **Node.JS** for the **Back-End**. I like to actively participate in the full product lifecycle—from early concept, through technical design, to delivering and maintaining the finished product.
+At present, I work as a **Full-Stack** software engineer and try to build easy-to-use and visually simple but attractive interfaces for the web. My tools of the trade include **React, Next.js, Asttro Build, TypeScript, and more** as posible for the **Front-End**. **PHP** and **Node.JS** for the **Back-End**. I like to actively participate in the full product lifecycle—from early concept, through technical design, to delivering and maintaining the finished product.
 
 # ☎️ Contact information
 
