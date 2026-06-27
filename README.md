@@ -32,7 +32,7 @@
 
 ### What I'm building now
 
-- 🚀 **FlatSqr** — my software agency, helping startups ship product faster.
+- 🚀 **[FlatSqr](https://flatsqr.com)** — my software agency, helping startups ship product faster.
 - 🤖 **[RulesForAI.app](https://rulesforai.app)** — a Vision AI pipeline that turns UI screenshots + plain language into structured, context-aware rules for AI coding agents, cutting hallucinations in frontend generation.
 - 📦 **SupaNext Starter Kit 2** — open-source Next.js + Supabase boilerplate for shipping SaaS faster.
 - 🎨 **Simple Astro Portfolio** — SEO-optimized, sub-second-load Astro portfolio template.
