@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/vito8916/vito8916/blob/master/images/vicBanner.png" alt="Victor Alvarado" width="100%" />
-</p>
-
 <h3 align="center">Senior Product Engineer · Full-Stack AI Engineer</h3>
 <p align="center">📍 Tegucigalpa, Honduras — Remote for NSPros (Texas, USA) + US-based clients</p>
 
