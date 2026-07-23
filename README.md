@@ -16,8 +16,8 @@
 
 <!-- ─────────────  STATS  ───────────── -->
 <p align="center">
-  <img height="165" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <!-- ─────────────  ACTIVITY GRAPH  ───────────── -->
@@ -27,12 +27,12 @@
 
 ---
 
-### 🚀 Currently
+<h3 align="center">🚀 Currently</h3>
 
 - **[FlatSqr](https://flatsqr.com)** — my software studio, helping startups ship faster.
 - **[RulesForAI.app](https://rulesforai.app)** — Vision AI that turns UI screenshots into context-aware rules for AI coding agents.
 
-### 🧰 Stack
+<h3 align="center">🧰 Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,astro,ts,nodejs,laravel,python,postgres,supabase,tailwind,figma&theme=dark" />
