@@ -2,7 +2,7 @@
 <p align="center">📍 Tegucigalpa, Honduras — Remote for NSPros (Texas, USA) + US-based clients</p>
 
 <p align="center">
-  Honduran 🇭🇳 engineer — I help startups take web & mobile products from <b>0 → 1</b>.
+  Building web and mobile products that solve real business problems. I work across product design, full-stack development, and AI integrations helping teams ship faster, reduce infrastructure costs, and scale products.
 </p>
 
 <p align="center">
