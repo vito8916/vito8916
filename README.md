@@ -16,8 +16,8 @@
 
 <!-- ─────────────  STATS  ───────────── -->
 <p align="center">
-  <img width="49%" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="58%" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="40%" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <!-- ─────────────  ACTIVITY GRAPH  ───────────── -->
