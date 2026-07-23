@@ -33,6 +33,17 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,astro,ts,nodejs,laravel,python,postgres,supabase,tailwind,figma&theme=dark" />
 </p>
 
+<h3 align="center">Featured Repos</h3>
+
+<p align="center">
+  <a href="https://github.com/vito8916/SupaNext-Pro"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=SupaNext-Pro&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vito8916/simple-portfolio"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=simple-portfolio&theme=tokyonight&hide_border=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/vito8916/flatsqr-base-nextjs-template"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=flatsqr-base-nextjs-template&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vito8916/react-simple-typewriter"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=react-simple-typewriter&theme=tokyonight&hide_border=true" /></a>
+</p>
+
 <h3 align="center">Currently Working</h3>
 
 - **[FlatSqr](https://flatsqr.com)** — my software studio, helping startups ship faster.
