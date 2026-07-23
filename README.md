@@ -27,16 +27,16 @@
 
 ---
 
-<h3 align="center">🚀 Currently</h3>
-
-- **[FlatSqr](https://flatsqr.com)** — my software studio, helping startups ship faster.
-- **[RulesForAI.app](https://rulesforai.app)** — Vision AI that turns UI screenshots into context-aware rules for AI coding agents.
-
-<h3 align="center">🧰 Stack</h3>
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,astro,ts,nodejs,laravel,python,postgres,supabase,tailwind,figma&theme=dark" />
 </p>
+
+<h3 align="center">Currently Working</h3>
+
+- **[FlatSqr](https://flatsqr.com)** — my software studio, helping startups ship faster.
+- **[RulesForAI.app](https://rulesforai.app)** — Vision AI that turns UI screenshots into context-aware rules for AI coding agents.
 
 ---
 
