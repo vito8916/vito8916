@@ -20,6 +20,11 @@
   <img height="165" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
+<!-- ─────────────  ACTIVITY GRAPH  ───────────── -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vito8916&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+</p>
+
 ---
 
 ### 🚀 Currently
