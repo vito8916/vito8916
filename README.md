@@ -1,5 +1,5 @@
 <h3 align="center">Senior Product Engineer</h3>
-<p align="center">📍 Tegucigalpa, Honduras — Remote for NSPros (Texas, USA) + US-based clients</p>
+<p align="center">🇭🇳 Tegucigalpa, Honduras — Remote for NSPros (Texas, USA 🇺🇸) + US-based clients</p>
 
 <p align="center">
   Building web and mobile products that solve real business problems. I work across product design, full-stack development, and AI integrations helping teams ship faster, reduce infrastructure costs, and scale products.
