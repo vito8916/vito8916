@@ -18,10 +18,6 @@
   <a href="mailto:victoralvarado.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  📍 Tegucigalpa, Honduras &nbsp;·&nbsp; 🕔 UTC−06:00 &nbsp;·&nbsp; 🌎 Remote for the US
-</p>
-
 <br />
 
 <!-- ─────────────  STATS  ───────────── -->
@@ -32,6 +28,11 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vito8916&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ─────────────  TROPHIES  ───────────── -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vito8916&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -72,7 +73,7 @@ I help **startups and small teams launch web MVPs fast**, without over-engineeri
 
 ## 🌐 Operational context
 
-🏢 Remote Senior Product Engineer for **NSPros** (Texas, USA) &nbsp;·&nbsp; 🤝 Freelance for US-based startups &nbsp;·&nbsp; 📍 Tegucigalpa, Honduras &nbsp;·&nbsp; 🗣️ Spanish (native), English (B2)
+🟢 Open to new projects through **FlatSqr** &nbsp;·&nbsp; 🤝 Building for US-based startups & teams &nbsp;·&nbsp; ⚡ Async-friendly, UTC−06:00
 
 ---
 
