@@ -16,13 +16,8 @@
 
 <!-- ─────────────  STATS  ───────────── -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<!-- ─────────────  TROPHIES  ───────────── -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vito8916&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  <img height="165" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
