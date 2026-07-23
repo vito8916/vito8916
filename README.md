@@ -44,10 +44,14 @@
   <a href="https://github.com/vito8916/react-simple-typewriter"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=react-simple-typewriter&theme=tokyonight&hide_border=true" /></a>
 </p>
 
-<h3 align="center">Currently Working</h3>
+<h3 align="center">Projects</h3>
 
-- **[FlatSqr](https://flatsqr.com)** — my software studio, helping startups ship faster.
-- **[RulesForAI.app](https://rulesforai.app)** — Vision AI that turns UI screenshots into context-aware rules for AI coding agents.
+| Project | Role | What it is |
+|---|---|---|
+| **[FlatSqr](https://flatsqr.com)** | Founder | Product & AI engineering studio (US-registered LLC) helping founders design, build, and ship digital products and AI systems. |
+| **[RulesForAI.app](https://rulesforai.app)** | Founder & Lead Engineer | Vision AI pipeline that converts UI screenshots and natural language into structured, context-aware rules for AI coding agents (Cursor, GitHub Copilot, and others). |
+| **[BpFairValue.com](https://bpfairvalue.com)** | Lead Engineer | Options trading platform — fair value pricing, premarket LOI, screener, and insights — with subscription onboarding. |
+| **[TheClosetClique.com](https://theclosetclique.com)** | Full-Stack Developer | Student-focused fashion marketplace for renting and reselling clothing. |
 
 ---
 
