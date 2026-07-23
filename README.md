@@ -2,7 +2,7 @@
 <p align="center">📍 Tegucigalpa, Honduras — Remote for NSPros (Texas, USA) + US-based clients</p>
 
 <p align="center">
-  Honduran 🇭🇳 <b>Senior Product Engineer</b> & <b>Full-Stack AI Engineer</b> — I take web & mobile products from <b>0 → 1</b>.
+  Honduran 🇭🇳 <b>Senior Product Engineer</b> — shipping full-stack web and mobile products.
 </p>
 
 <p align="center">
