@@ -6,23 +6,23 @@
 </p>
 
 <p align="center">
-  <a href="https://victoralvarado.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://flatsqr.com"><img src="https://img.shields.io/badge/FlatSqr-6D28D9?style=for-the-badge&logo=square&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/victor-alvaradohn/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:victoralvarado.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://victoralvarado.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://flatsqr.com"><img src="https://img.shields.io/badge/FlatSqr-FB6F92?style=for-the-badge&logo=square&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/victor-alvaradohn/"><img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:victoralvarado.dev@gmail.com"><img src="https://img.shields.io/badge/Email-FB6F92?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br />
 
 <!-- ─────────────  STATS  ───────────── -->
 <p align="center">
-  <img width="58%" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="40%" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="58%" src="https://github-stats-vic.vercel.app/api?username=vito8916&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=151022&title_color=C6A7FF&text_color=E7DFFF&icon_color=FF8FA3&ring_color=FF8FA3&border_radius=20" />
+  <img width="40%" src="https://github-stats-vic.vercel.app/api/top-langs/?username=vito8916&layout=compact&hide_border=true&langs_count=8&bg_color=151022&title_color=C6A7FF&text_color=E7DFFF&border_radius=20" />
 </p>
 
 <!-- ─────────────  ACTIVITY GRAPH  ───────────── -->
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vito8916&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=vito8916&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=151022&title_color=C6A7FF&color=E7DFFF&area_color=FF8FA3&radius=20" />
 </p>
 
 ---
@@ -36,12 +36,12 @@
 <h3 align="center">Featured Repos</h3>
 
 <p align="center">
-  <a href="https://github.com/vito8916/SupaNext-Pro"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=SupaNext-Pro&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/vito8916/simple-portfolio"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=simple-portfolio&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vito8916/SupaNext-Pro"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=SupaNext-Pro&hide_border=true&bg_color=151022&title_color=C6A7FF&text_color=E7DFFF&icon_color=FF8FA3&border_radius=20" /></a>
+  <a href="https://github.com/vito8916/simple-portfolio"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=simple-portfolio&hide_border=true&bg_color=151022&title_color=C6A7FF&text_color=E7DFFF&icon_color=FF8FA3&border_radius=20" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/vito8916/flatsqr-base-nextjs-template"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=flatsqr-base-nextjs-template&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/vito8916/react-simple-typewriter"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=react-simple-typewriter&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/vito8916/flatsqr-base-nextjs-template"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=flatsqr-base-nextjs-template&hide_border=true&bg_color=151022&title_color=C6A7FF&text_color=E7DFFF&icon_color=FF8FA3&border_radius=20" /></a>
+  <a href="https://github.com/vito8916/react-simple-typewriter"><img width="47%" src="https://github-stats-vic.vercel.app/api/pin/?username=vito8916&repo=react-simple-typewriter&hide_border=true&bg_color=151022&title_color=C6A7FF&text_color=E7DFFF&icon_color=FF8FA3&border_radius=20" /></a>
 </p>
 
 <h3 align="center">Projects</h3>
